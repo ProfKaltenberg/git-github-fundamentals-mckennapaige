@@ -5,5 +5,6 @@
 - How to merge files
 How to mak a markdown and what a pip is
 ### What I would like to know
+- How to navigate and use the desktop version of github
 - What the practical applications of Github are
 - I really just want to get more comfortable with github software
